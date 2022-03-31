@@ -1,3 +1,2 @@
 # SoyChaiwith2Shot
-for practice
-hi
+hello
