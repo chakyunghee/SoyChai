@@ -1,2 +1,0 @@
-# SoyChaiwith2Shot
-vscode
